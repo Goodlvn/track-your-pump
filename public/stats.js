@@ -85,6 +85,9 @@ function populateChart(data) {
             display: true,
             scaleLabel: {
               display: true
+            },
+            ticks: {
+              beginAtZero: true
             }
           }
         ]
