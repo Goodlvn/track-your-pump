@@ -8,7 +8,7 @@
 
 ## Description
 
-[This fitness tracker app](https://pickin-my-burgers.herokuapp.com/) is designed to help you keep track of your workouts! Create a new workout plan and add exercises as you go through it. Check the stats of your work outs to see the progress that you've made!
+[This fitness tracker app](https://work-your-pump.herokuapp.com/) is designed to help you keep track of your workouts! Create a new workout plan and add exercises as you go through it. Check the stats of your work outs to see the progress that you've made!
 ## Table of Contents
 
 * [Installation](#installation)
